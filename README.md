@@ -24,6 +24,7 @@ printf("\nОтвет: %5.4lf\n", ψ);
 
 ### БЛОК-СХЕМА
 
+<img width="302" height="472" alt="Диаграмма без названия drawio" src="https://github.com/user-attachments/assets/5230e096-36d6-43a5-aebd-e01d0636f87d" />
 
 
 ## **2. Реализация программы**
